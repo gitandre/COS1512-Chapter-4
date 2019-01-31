@@ -7,4 +7,6 @@ The Pizza Consumers Union has been very successful with the program that we wrot
 
 The changes we need to make to our pizza evaluation program are clear: We need to change the input and output a bit so that it deals with two differ- ent shapes of pizzas. We also need to add a new function that can compute the cost per square inch of a rectangular pizza. We could use the following function definition in our program so that we can compute the unit price for a rectangular pizza...
 
+<img src="http://www.cottageinn.com/wp-content/themes/cottageinn/images/big-pizza.jpg" />
+
 See Savitch page 267
